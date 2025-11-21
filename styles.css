@@ -1,0 +1,14 @@
+body {
+
+}
+
+.hero-image {
+    background-image: url(texture2.jpg);
+}
+.hero-text {
+    text-align: center;
+}
+
+.container {
+    border:1px solid purple
+}
